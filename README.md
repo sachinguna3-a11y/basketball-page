@@ -55,12 +55,12 @@
 <body>
   <header>
     <h1>🏀 Sachin's Basketball World 🏀</h1>
-    <p>Built by me in under 1 hour at age 13</p>
+    <p>Im the best</p>
   </header>
 
   <section>
     <h2>About Me</h2>
-    <p>Hi! I'm Sachin, a 13-year-old basketball player. I'm 5'10", have a 34-inch vertical, and can dunk on a 10'5" rim. This site is where I share my basketball journey and goals.</p>
+    <p>Hi! I'm Sachin, a 13-year-old basketball player. I'm 5'10", I play basketball, and i'm the best. This site is where I share my basketball journey and goals.</p>
     <img src="https://images.unsplash.com/photo-1517649763962-0c623066013b" alt="Basketball" />
     <br><br>
     <button onclick="alert('Thanks for visiting my site! 🏀')">Click Me</button>
@@ -70,15 +70,15 @@
     <h2>My Stats</h2>
     <ul style="list-style:none; padding:0;">
       <li>Height: 5'10"</li>
-      <li>Vertical Jump: 34 inches</li>
-      <li>Best Dunk: One-handed on 10'5"</li>
-      <li>Position: Shooting Guard / Small Forward</li>
+      <li>Parents: Guna and Nilooshi</li>
+      <li>When I started basketball: 2023</li>
+      <li>Position: Power Forward / Small Forward</li>
     </ul>
   </section>
 
   <section>
     <h2>Goals</h2>
-    <p>My main goal is to make the competitive basketball team this season. I’m training daily at Minto Recreation Complex, focusing on strength, shooting, and game IQ.</p>
+    <p>My main goal is to make the competitive basketball team this season. </p>
   </section>
 
   <footer>
