@@ -1,1 +1,88 @@
 # basketball-page
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sachin's Basketball Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      background: linear-gradient(135deg, #ff8c00, #ff4500);
+      color: white;
+    }
+    header {
+      padding: 30px;
+      background: rgba(0,0,0,0.3);
+    }
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+      text-shadow: 2px 2px 5px black;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    footer {
+      background: rgba(0,0,0,0.3);
+      padding: 15px;
+      font-size: 0.9em;
+    }
+    button {
+      padding: 10px 20px;
+      background: #fff;
+      border: none;
+      color: #333;
+      font-weight: bold;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #eee;
+    }
+    img {
+      max-width: 300px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🏀 Sachin's Basketball World 🏀</h1>
+    <p>Built by me in under 1 hour at age 13</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi! I'm Sachin, a 13-year-old basketball player. I'm 5'10", have a 34-inch vertical, and can dunk on a 10'5" rim. This site is where I share my basketball journey and goals.</p>
+    <img src="https://images.unsplash.com/photo-1517649763962-0c623066013b" alt="Basketball" />
+    <br><br>
+    <button onclick="alert('Thanks for visiting my site! 🏀')">Click Me</button>
+  </section>
+
+  <section>
+    <h2>My Stats</h2>
+    <ul style="list-style:none; padding:0;">
+      <li>Height: 5'10"</li>
+      <li>Vertical Jump: 34 inches</li>
+      <li>Best Dunk: One-handed on 10'5"</li>
+      <li>Position: Shooting Guard / Small Forward</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Goals</h2>
+    <p>My main goal is to make the competitive basketball team this season. I’m training daily at Minto Recreation Complex, focusing on strength, shooting, and game IQ.</p>
+  </section>
+
+  <footer>
+    © 2025 Sachin's Basketball Page | All Rights Reserved
+  </footer>
+</body>
+</html>
