@@ -1,4 +1,4 @@
-# basketball-page
+# Basketball-page
 
 <!DOCTYPE html>
 <html lang="en">
@@ -61,11 +61,7 @@
   <section>
     <h2>About Me</h2>
     <p>Hi! I'm Sachin, a 13-year-old basketball player. I'm 5'10", I play basketball, and i'm the best. This site is where I share my basketball journey and goals.</p>
-    <img src="https://images.unsplash.com/photo-1517649763962-0c623066013b" alt="Basketball" />
-    <br><br>
-    <button onclick="alert('Thanks for visiting my site! 🏀')">Click Me</button>
-  </section>
-
+    
   <section>
     <h2>My Stats</h2>
     <ul style="list-style:none; padding:0;">
